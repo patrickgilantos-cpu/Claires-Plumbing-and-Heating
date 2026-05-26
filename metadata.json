@@ -1,0 +1,6 @@
+{
+  "name": "Claire's Plumbing",
+  "description": "A high-converting plumbing and heating local business website optimized for fast loading and local SEO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
